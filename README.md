@@ -1,4 +1,4 @@
-# ssy's 大模型学习记录
+# ssy 大模型学习记录
 ## python学习篇
 主要内容包括python的基础语法、数据分析（numpy、pandas、mat）<br>
 推荐资源：<br>
